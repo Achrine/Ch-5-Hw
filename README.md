@@ -50,7 +50,9 @@ http://www.makeuseof.com/tag/create-stunning-flowcharts-microsoft-word/
 	
 	
 [Six Fingers](http://locklip.com/who-were-the-ancient-giants-with-six-fingers-and-double-rows-of-teeth/)
-[Polydactyly)[https://www.genome.gov/27529688/polydactyly-study-general-information/)
+
+
+[Polydactyly](https://www.genome.gov/27529688/polydactyly-study-general-information/)
 http://www.academia.edu/1349308/Polydactyly_and_the_Maya_A_Review_and_an_Example_from_the_Site_of_Peligroso_Upper_Macal_Valley_Belize
 https://fashionthatpays.wordpress.com/tag/ancient-history/
 http://loki-lib.sourceforge.net/index.php?n=Main.Philosophy
