@@ -62,3 +62,7 @@ https://en.wikipedia.org/wiki/Object_Windows_Library
 
 
 * https://www.programiz.com/python-programming#run-python-linux
+
+
+
+* https://wiki.qt.io/Qt_for_Beginners
