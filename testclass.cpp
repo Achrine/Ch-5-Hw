@@ -11,10 +11,10 @@ private:
 	float data2;
 
 public:
-	void function1()
+	int function1() //formerly void
 	{
 		data1 = 2;
-		//return data1;
+		return data1;
 	}
 
 	float function2()
@@ -46,7 +46,7 @@ int main() {
 	cout << o2.function2() << endl;
 	
 	Dog one;
-	cout << one.color << endl;
+	cout << one.color() << endl;
 	cout << one.jump() << endl;
 	cout << one.speakName << endl;
 
