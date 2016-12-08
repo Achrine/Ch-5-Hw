@@ -49,10 +49,14 @@ http://www.makeuseof.com/tag/create-stunning-flowcharts-microsoft-word/
 	* In CIS5 folder, I believe. 
 	
 	
-http://locklip.com/who-were-the-ancient-giants-with-six-fingers-and-double-rows-of-teeth/
-https://www.genome.gov/27529688/polydactyly-study-general-information/
+[Six Fingers](http://locklip.com/who-were-the-ancient-giants-with-six-fingers-and-double-rows-of-teeth/)
+[Polydactyly)[https://www.genome.gov/27529688/polydactyly-study-general-information/)
 http://www.academia.edu/1349308/Polydactyly_and_the_Maya_A_Review_and_an_Example_from_the_Site_of_Peligroso_Upper_Macal_Valley_Belize
 https://fashionthatpays.wordpress.com/tag/ancient-history/
 http://loki-lib.sourceforge.net/index.php?n=Main.Philosophy
 http://www.fltk.org/index.php
 https://en.wikipedia.org/wiki/Object_Windows_Library
+
+
+
+* https://www.programiz.com/python-programming#run-python-linux
